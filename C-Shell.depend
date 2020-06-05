@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1591303320 source:/home/surbir/C-Shell/main.c
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<stdio.h>
+
